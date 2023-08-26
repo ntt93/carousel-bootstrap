@@ -1,0 +1,22 @@
+.carousel-item {
+  height: 500px;
+  background-color: #000;
+  background-size: cover;
+}
+.bg-img1 {
+  background-image: url(./images/img1.jpg);
+}
+
+.bg-img2 {
+  background-image: url(./images/img2.jpg);
+}
+
+.bg-img3 {
+  background-image: url(./images/img3.jpg);
+}
+
+.flex-footer {
+  display: flex;
+  flex-direction: row !important;
+  gap: 24px;
+}
